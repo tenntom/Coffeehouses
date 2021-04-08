@@ -1,0 +1,26 @@
+@import "shop.css";
+
+.shop {
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 0.5em;
+    flex-basis: 20%;
+    text-align: center; 
+    /* display: flex;
+    flex-wrap: wrap;
+     */
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+ .pageHeader {
+     text-align: center;
+ }
+
+
+
+
